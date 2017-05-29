@@ -1,0 +1,13 @@
+
+*.png
+*.pyc
+*.py~
+
+datasets/
+docs/
+output/
+testdata/*.bmp
+testdata/patches/
+testdata/patches2/
+testdata/patches_translate/
+testdata/patches_translate2/
