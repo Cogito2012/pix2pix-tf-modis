@@ -3,6 +3,7 @@
 *.pyc
 *.py~
 
+.idea/
 datasets/
 docs/
 output/
