@@ -1,0 +1,17 @@
+*.pyc
+tags
+test
+models
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+*.py~
+*.png
+datasets/
+output/
+testdata/*.bmp
+testdata/patches/
+testdata/patches2/
+testdata/patches_translate/
+testdata/patches_translate2/
